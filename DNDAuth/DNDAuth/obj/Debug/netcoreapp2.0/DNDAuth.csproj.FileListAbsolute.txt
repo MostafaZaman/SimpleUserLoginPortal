@@ -1,0 +1,10 @@
+G:\MytestingProjects\DNDAuth\DNDAuth\bin\Debug\netcoreapp2.0\DNDAuth.deps.json
+G:\MytestingProjects\DNDAuth\DNDAuth\bin\Debug\netcoreapp2.0\DNDAuth.runtimeconfig.json
+G:\MytestingProjects\DNDAuth\DNDAuth\bin\Debug\netcoreapp2.0\DNDAuth.runtimeconfig.dev.json
+G:\MytestingProjects\DNDAuth\DNDAuth\bin\Debug\netcoreapp2.0\DNDAuth.dll
+G:\MytestingProjects\DNDAuth\DNDAuth\bin\Debug\netcoreapp2.0\DNDAuth.pdb
+G:\MytestingProjects\DNDAuth\DNDAuth\obj\Debug\netcoreapp2.0\DNDAuth.csproj.CoreCompileInputs.cache
+G:\MytestingProjects\DNDAuth\DNDAuth\obj\Debug\netcoreapp2.0\DNDAuth.AssemblyInfoInputs.cache
+G:\MytestingProjects\DNDAuth\DNDAuth\obj\Debug\netcoreapp2.0\DNDAuth.AssemblyInfo.cs
+G:\MytestingProjects\DNDAuth\DNDAuth\obj\Debug\netcoreapp2.0\DNDAuth.dll
+G:\MytestingProjects\DNDAuth\DNDAuth\obj\Debug\netcoreapp2.0\DNDAuth.pdb

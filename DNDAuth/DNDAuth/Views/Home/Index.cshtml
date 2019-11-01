@@ -1,0 +1,19 @@
+﻿@{
+    ViewBag.Title = "User Home";
+}
+<h2>WelCome</h2>
+
+@using (Html.BeginForm("Logout", "User", FormMethod.Post, new { id = "logoutForm" }))
+{
+    <a href="javascript:document.getElementById('logoutForm').submit()">Logout</a>
+}
+
+@*Welcome @HttpContext.Current.User.Identity.Name
+    @if (Request.IsAuthenticated)
+    {
+}*@
+
+
+<div>
+    @Html.ActionLink("Password Recovery", "PasswordRecovery", "User")
+</div>
